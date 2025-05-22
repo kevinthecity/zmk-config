@@ -1,8 +1,8 @@
 manifest:
   projects:
     - name: zmk
-      url: https://github.com/ebastler/zmk
-      revision: nice-view
+      url: https://github.com/urob/zmk
+      revision: feature/nice_view_adapter
       import: app/west.yml
   self:
     path: config
