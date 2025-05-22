@@ -2,7 +2,7 @@ manifest:
   projects:
     - name: zmk
       url: https://github.com/ebastler/zmk
-      revision: nice-view-support
+      revision: nice-view
       import: app/west.yml
   self:
     path: config
